@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aarontsatsu
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning python, flask, django, REST, GraphQL, CICD.
+- 🌱 I’m currently learning python, GoLang, flask, django, REST, GraphQL, CICD.
 - 💞️ I’m looking to collaborate on projects that are mutually beneficial.
 - 📫 How to reach me: LinkedIn - Aaron Tamakloe
 
